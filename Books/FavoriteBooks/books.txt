@@ -1,0 +1,8 @@
+3,Dokuza Kadar On,Poetry,Ozdemir Asaf,No,3,2016,112,This is a poetry.,/Users/ayseguleyrice/Book1.jpg, 
+4,Göge Bakma Duragi,Poetry,Turgut Uyar,No,4,2008,115,This is a poetry.,/Users/ayseguleyrice/Book2.jpg, 
+5,Sol Ayagim,Novel,Christy Brown ,Yes,3,2017,192,This is a novel.,/Users/ayseguleyrice/Book2.jpg, 
+6,Atesten Gomlek,Novel,Halide Edip Adivar,Yes,4,1922,253,This is a novel.,/Users/ayseguleyrice/Book4.jpg, 
+7,Siyah Lale,Novel,Alexandre Dumas,No,3,2016,256,This is a novel.,/Users/ayseguleyrice/Book6.jpg, 
+8,Nutuk,History Book,Mustafa Kemal Ataturk,Yes,5,2016,616,First written history of the new Turkish state.,/Users/ayseguleyrice/Book7.jpg, 
+9,Sah Mat,Novel,Mario Mazzanti,Yes,3,2011,512,This is a novel.,/Users/ayseguleyrice/Book8.jpg, 
+10,Kulkedisi,Fairy Book,Charles Perrault,Yes,2,2005,142,This is a fairy book.,/Users/ayseguleyrice/Book8.jpg, 
